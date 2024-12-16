@@ -21,6 +21,7 @@ Setup Instructions
 
 Clone the project from GitHub:
 git clone https://github.com/akjabir/techforing_project/tree/jabir/
+
 cd techforing
 
 2. Create and Activate a Virtual Environment
